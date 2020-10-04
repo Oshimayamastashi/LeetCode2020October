@@ -7,7 +7,7 @@ import java.util.Set;
 /**
  * Medium, Runtime: 14 ms(28.43%) Memory Usage: 47.2 MB(18.30%)
  * 
- * this solution is O(n) but run slower than use sort O(nlogn) & two pointerO(n)
+ * this solution is O(n) but run slower than use sort O(nlogn)& two pointer O(n)
  */
 public class KDiffPairsInAnArray {
 
